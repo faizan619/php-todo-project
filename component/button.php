@@ -1,0 +1,1 @@
+<a href="./pages/todopage.php" class="w-36 p-2 rounded-md text-center bg-[tomato] text-white hover:scale-105 transition-all shadow-md hover:shadow-black">Start Writing</a>
